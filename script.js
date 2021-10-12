@@ -1,7 +1,7 @@
 $('#newWindow').click(function () {
   window.open('https://www.google.com', 'blank')
 })
-var temp = 1
+var temp = 9;
 
 var val = ['','test','qaulitia','zensoft','','','automation','nikhil'];
 
